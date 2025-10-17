@@ -36,3 +36,11 @@ If you prefer to run it manually instead of the CMD launcher, open PowerShell **
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\Export_drivers_zip.ps1
+```
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License — feel free to use, modify, and distribute.
+
