@@ -1,6 +1,15 @@
 # 🧰 Export Drivers Tool
 
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Build-Stable-success)
+![Automation](https://img.shields.io/badge/Automation-Enabled-orange)
+
+---
+
 A lightweight PowerShell-based utility that **automatically exports all installed Windows drivers** and compresses them into a single ZIP file — perfect for backups, deployments, or recovery before reinstalling Windows.
+
 
 ---
 
