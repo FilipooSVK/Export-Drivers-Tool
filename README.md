@@ -16,7 +16,7 @@ A lightweight PowerShell-based utility that **automatically exports all installe
 ## 🚀 Features
 
 - 🔹 Exports **all currently installed Windows drivers**
-- 🔹 Automatically creates a timestamped folder (e.g., `Drivers_2025-10-17`)
+- 🔹 Automatically creates a timestamped folder (e.g., `Drivers_yyyy-mm-dd`)
 - 🔹 Compresses exported drivers into a `.zip` archive
 - 🔹 Includes a `.cmd` launcher for one-click execution (no PowerShell needed)
 - 🔹 Works on **Windows 10** and **Windows 11**
