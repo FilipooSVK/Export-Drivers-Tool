@@ -32,7 +32,7 @@ A comprehensive PowerShell-based toolkit with an **interactive menu system** for
 ```
 DriverExportTool/
 │
-├── ExportDriversMenu.cmd          # Main launcher (run as Admin)
+├── start.cmd          # Main launcher (run as Admin)
 │
 └── Scripts/
     ├── Export_ByClass.ps1         # Export by device class
@@ -47,7 +47,7 @@ DriverExportTool/
 
 ### 🎯 Quick Start
 
-1. **Run** `ExportDriversMenu.cmd` **as Administrator**
+1. **Run** `start.cmd` **as Administrator**
 2. Choose from the interactive menu:
    - **Option 1-2**: Export all drivers (3rd-party/non-Microsoft)
    - **Option 3**: Select specific device classes (multi-selection available)
@@ -202,7 +202,7 @@ The tool recognizes standard Windows device class GUIDs including:
 
 ### Change Default Settings
 
-Edit `ExportDriversMenu.cmd`:
+Edit `start.cmd`:
 
 ```batch
 :: Default destination folder
@@ -238,7 +238,7 @@ HID-compliant mouse Microsoft       oem42.inf    10.0.22621.1    2023-09-15
 ## 🚨 Troubleshooting
 
 ### Script won't run
-- ✅ Right-click `ExportDriversMenu.cmd` → **Run as Administrator**
+- ✅ Right-click `start.cmd` → **Run as Administrator**
 - ✅ Check if `Scripts\` folder exists with `.ps1` files
 
 ### "pnputil.exe not found"
