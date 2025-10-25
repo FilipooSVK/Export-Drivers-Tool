@@ -1,4 +1,4 @@
-# 🧰 Driver Export Tool
+# 🧰 Export Driver Tool
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-lightgrey)
