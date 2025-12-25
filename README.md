@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Build-Stable-success)
 ![Automation](https://img.shields.io/badge/Automation-Enabled-orange)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X31QYP4A)
 ---
 
 A comprehensive PowerShell-based toolkit with an **interactive menu system** for exporting Windows drivers with precision. Export all drivers, specific device classes (Mouse, Storage, Network, etc.), or target individual drivers by INF/Hardware ID — perfect for backups, system migrations, or driver management.
